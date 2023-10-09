@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.Publisher", "Payment.Publisher\Payment.Publisher.csproj", "{7327803E-B6AC-4FAC-A673-AE90AD463C3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.Consumer", "Payment.Consumer\Payment.Consumer.csproj", "{7B9B1E43-6851-43D0-9977-8EB15564CEA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7327803E-B6AC-4FAC-A673-AE90AD463C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7327803E-B6AC-4FAC-A673-AE90AD463C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7327803E-B6AC-4FAC-A673-AE90AD463C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9B1E43-6851-43D0-9977-8EB15564CEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9B1E43-6851-43D0-9977-8EB15564CEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9B1E43-6851-43D0-9977-8EB15564CEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9B1E43-6851-43D0-9977-8EB15564CEA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
